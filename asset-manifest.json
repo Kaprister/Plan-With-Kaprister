@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Plan-With-Kaprister/static/css/main.a06cabf2.css",
+    "main.js": "/Plan-With-Kaprister/static/js/main.13e4d9ed.js",
+    "index.html": "/Plan-With-Kaprister/index.html",
+    "main.a06cabf2.css.map": "/Plan-With-Kaprister/static/css/main.a06cabf2.css.map",
+    "main.13e4d9ed.js.map": "/Plan-With-Kaprister/static/js/main.13e4d9ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a06cabf2.css",
+    "static/js/main.13e4d9ed.js"
+  ]
+}
